@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1014,55:171A21,100:5C4313&height=220&section=header&text=Hola,%20soy%20Alex%20%F0%9F%91%8B&fontSize=40&fontColor=E9ECF1&animation=fadeIn&fontAlignY=35&desc=Kodemaru%20%C2%B7%20IA%20y%20programaci%C3%B3n&descAlignY=55&descSize=18" alt="Hola, soy Alex. Kodemaru, IA y programación" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1014,55:171A21,100:5C4313&height=220&section=header&text=Hola,%20soy%20Kodemaru%20%F0%9F%91%8B&fontSize=40&fontColor=E9ECF1&animation=fadeIn&fontAlignY=35&desc=Kodemaru%20%C2%B7%20IA%20y%20programaci%C3%B3n&descAlignY=55&descSize=18" alt="Hola, soy Kodemaru. IA y programación" width="100%"/>
 
 <a href="https://github.com/Kodemaru">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=F5B841&center=true&vCenter=true&width=650&lines=Programo+y+trasteo+con+IA+%F0%9F%A4%96;Construyendo+huginnDB+en+abierto;Resolviendo+puzles+de+c%C3%B3digo+%F0%9F%A7%A9;Lo+bueno%2C+lo+malo+y+lo+que+aprendo+%E2%9A%A1" alt="Programo y trasteo con IA. Construyendo huginnDB en abierto. Resolviendo puzles de código. Lo bueno, lo malo y lo que aprendo." />
@@ -17,8 +17,7 @@ y de repente sale. Aquí dejo lo que voy construyendo, casi todo en abierto, y e
 Instagram cuento el día a día de cómo lo hago.
 
 ```yaml
-alex:
-  alias: "Kodemaru"
+kodemaru:
   role: "Full-Stack Developer que trastea con IA"
   building: "huginnDB"
   ask_me_about: ["IA y MCP", "Tauri + React", "Spring Boot", "Angular", "Vue.js"]
