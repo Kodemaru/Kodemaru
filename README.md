@@ -1,9 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1014,55:171A21,100:5C4313&height=220&section=header&text=Hola,%20soy%20Kodemaru%20%F0%9F%91%8B&fontSize=40&fontColor=E9ECF1&animation=fadeIn&fontAlignY=35&desc=Kodemaru%20%C2%B7%20IA%20y%20programaci%C3%B3n&descAlignY=55&descSize=18" alt="Hola, soy Kodemaru. IA y programación" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1014,55:171A21,100:5C4313&height=220&section=header&text=Hola,%20soy%20Alex%20%F0%9F%91%8B&fontSize=40&fontColor=E9ECF1&animation=fadeIn&fontAlignY=35&desc=Alex%20L%C3%B3pez%20%C2%B7%20lopezz.dev&descAlignY=55&descSize=18" alt="Hola, soy Alex 👋 Alex López · lopezz.dev" width="100%"/>
+
+<!-- FOTO DE ALEX (pendiente): cambia este comentario por
+<img src="URL_O_RUTA_DE_TU_FOTO" alt="Alex López" width="160" />
+-->
 
 <a href="https://github.com/Kodemaru">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=F5B841&center=true&vCenter=true&width=650&lines=Programo+y+trasteo+con+IA+%F0%9F%A4%96;Construyendo+huginnDB+en+abierto;Resolviendo+puzles+de+c%C3%B3digo+%F0%9F%A7%A9;Lo+bueno%2C+lo+malo+y+lo+que+aprendo+%E2%9A%A1" alt="Programo y trasteo con IA. Construyendo huginnDB en abierto. Resolviendo puzles de código. Lo bueno, lo malo y lo que aprendo." />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=F5B841&center=true&vCenter=true&width=650&lines=Programo+y+trasteo+con+IA+%F0%9F%92%BB;Construyendo+huginnDB+en+abierto;Mi+d%C3%ADa+a+d%C3%ADa%2C+c%C3%A1mara+en+mano+%F0%9F%8E%A5;Lo+bueno%2C+lo+malo+y+lo+que+aprendo+%E2%9A%A1" alt="Programo y trasteo con IA. Construyendo huginnDB en abierto. Mi día a día, cámara en mano. Lo bueno, lo malo y lo que aprendo." />
 </a>
 
 </div>
@@ -12,12 +16,15 @@
 
 ## 💫 Sobre mí
 
-Me flipan los puzles que tiene esto de programar: ese problema que no sale, que no sale…
-y de repente sale. Aquí dejo lo que voy construyendo, casi todo en abierto, y en
-Instagram cuento el día a día de cómo lo hago.
+Programo, trasteo con IA y me peleo con puzles de código. Me flipa ese momento en el que
+algo no sale, no sale… y de repente sale. Aquí dejo lo que voy construyendo, casi todo en
+abierto.
+
+En Instagram me grabo contando el día a día: lo que programo, lo que se rompe, lo que voy
+aprendiendo por el camino y la vida que pasa entre medias.
 
 ```yaml
-kodemaru:
+alex:
   role: "Full-Stack Developer que trastea con IA"
   building: "huginnDB"
   ask_me_about: ["IA y MCP", "Tauri + React", "Spring Boot", "Angular", "Vue.js"]
@@ -39,9 +46,10 @@ conector para que tu IA consulte tus bases de datos. MIT.
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40kodemaru.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kodemaru.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-%40lopezz.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lopezz.dev)
+[![Web](https://img.shields.io/badge/Web-F5B841?style=for-the-badge&logo=googlechrome&logoColor=0E1014)](https://kodemaru.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-l%C3%B3pez-62b2222a0/)
-[![GitHub](https://img.shields.io/badge/GitHub-Kodemaru-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kodemaru)
+[![GitHub](https://img.shields.io/badge/GitHub-Alex%20L%C3%B3pez-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kodemaru)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kodemaru&color=F5B841&style=for-the-badge&label=VISITAS)
 
